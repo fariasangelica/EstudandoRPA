@@ -5,3 +5,31 @@ Os funcionários podem usar uma ferramenta baseada em fluxograma para criar rob�
 de escritórios tedioso normalmente por humanos. de preferência usando sistemas existentes (ou seja, novos desenvolvimentos e testes de TI).
 
 > Objetivo: Imitar o que os humanos fazem, usando GUIs e processos existentes.
+
+- Classificação:
+Robô autônomo/autônomo: ele basicamente fica sozinho em uma sala fria e escura, esperando ser programado para ser executado ou talvez monitorando
+uma fila ou um diretório cheio de arquivos e fazendo seu trabalho sem intervenção humana.
+
+Robô planejado/auxiliar: é normalmente usando por um operador de computador humano quando parte da tarefa requer um raciocínio de alto, e então nós,
+humanos podemos acionar o robô para realizar o valor mais baixo, coisas repetitivas
+
+> Os usos típicos do RPA incluem a entrada de dados frequente, repetitiva e consistente ou a execução de uma série de etapas bem definidas.
+> Inserir e/ou sincronizar dados.
+> Os robôs de software também podem ser usados para supervisionar ou verificar o trabalho de entrada de dados de terceiros em 
+relação a um conjunto de regras e por terceiros.
+> Migração, extração e relatórios de dados.
+> Tomada de decisão baseada em regras.
+
+Benefícios para os negócios:
+> Aumentar a precisão, a consideração ea velocidade.
+> Lidar com tarefas repetitivas e de baixo valor de forma barata.
+> Aumente/reduza instantaneamente para atender a demanda.
+> Realizado 24h por dia, 7 dias por semana.
+> Sem feriados. erros ou "dias ruins"
+> Trilha de auditoria digital completa de tarefas e etapas.
+
+Benefícios para funcionários:
+> Permite que os humanos trabalhem melhor, de forma mais inteligente e mais criativa em tarefas de maior valor.
+> Aumenta a satisfação no trabalho.
+> Menos monotonia.
+
