@@ -11,9 +11,10 @@ Robô autônomo/autônomo: ele basicamente fica sozinho em uma sala fria e escur
 uma fila ou um diretório cheio de arquivos e fazendo seu trabalho sem intervenção humana.
 
 Robô planejado/auxiliar: é normalmente usando por um operador de computador humano quando parte da tarefa requer um raciocínio de alto, e então nós,
-humanos podemos acionar o robô para realizar o valor mais baixo, coisas repetitivas
+humanos podemos acionar o robô para realizar o valor mais baixo, coisas repetitivas.
 
-> Os usos típicos do RPA incluem a entrada de dados frequente, repetitiva e consistente ou a execução de uma série de etapas bem definidas.
+Os usos típicos do RPA incluem:
+> A entrada de dados frequente, repetitiva e consistente ou a execução de uma série de etapas bem definidas.
 > Inserir e/ou sincronizar dados.
 > Os robôs de software também podem ser usados para supervisionar ou verificar o trabalho de entrada de dados de terceiros em 
 relação a um conjunto de regras e por terceiros.
