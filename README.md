@@ -1,3 +1,5 @@
 # EstudandoRPA
 
-Este repositório tem como objetivo mostrar o meu aprendizado introdutório com Robotic Process Automation - RPA. 
+## 🤖 Sobre <a name="Sobre"></a>
+
+Este repositório tem como objetivo mostrar o meu aprendizado inicial com Robotic Process Automation - RPA. 
