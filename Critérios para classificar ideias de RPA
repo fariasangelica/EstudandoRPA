@@ -1,0 +1,13 @@
+- O RPA não está restrito a nenhum tipo específico de processo.
+- Existem "proteções" em relação aos processis que automatizam melhor:
+
+  > Repetitivos/previsível.
+  > Baseado em regras (não é necessário interpretação humana).
+  > Dados estruturados.
+  > Volume médio-alto.
+  > Picos e vales de volume.
+  > Pode ser processado dentro e fora do horário normal de operação.
+  > Propenso a erros humanos.
+  > Envolve dados duplicados em vários sistemas.
+  > Não é objeto de otimização contínua.
+  > Vitória rápida.
